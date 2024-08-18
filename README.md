@@ -1,5 +1,7 @@
 # Mail-TS
 
+<img src=".assets/mailts.png" />
+
 **Easy to setup, simple, smtp server written in typescript.**
 
 # Installation
